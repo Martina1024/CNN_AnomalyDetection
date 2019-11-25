@@ -2,7 +2,7 @@
 
 
 | Index |                                                             Title                                                             | Year | Pulisher |
-|:-----:|-----------------------------------------------------------------------------------------------------------------------------:|:----:|:--------:|
+|:-----:|:-----------------------------------------------------------------------------------------------------------------------------|:----:|:--------:|
 |   1   | [Short-term traffic flow prediction based on spatiotemporal analysis and CNN deep learning]                                   |      |          |
 |   2   | [Dynamic Spatio-temporal Graph-based CNNs.]                                                                                   |      |          |
 |   3   | [A Deep Convolutional Network for Traffic Congestion Classification]                                                          |      |          |
