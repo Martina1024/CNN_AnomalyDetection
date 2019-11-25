@@ -1,17 +1,16 @@
 ### Paper List (CNN on transportation)
 
-
-| Index |                                                             Title                                                             | Year | Pulisher |
-|:-----:|:-----------------------------------------------------------------------------------------------------------------------------|:----:|:--------:|
-|   1   | [Short-term traffic flow prediction based on spatiotemporal analysis and CNN deep learning]                                   |      |          |
-|   2   | [Dynamic Spatio-temporal Graph-based CNNs for Traffic Prediction]                                                                                   |      |          |
-|   3   | [A Deep Convolutional Network for Traffic Congestion Classification]                                                          |      |          |
-|   4   | [Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting]                                          | 2019 |   AAAI   |
-|   5   | [Modeling Spatial-Temporal Dynamics for Traffic Prediction]                                                                   | 2018 |          |
-|   6   | [Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction]                                                         | 2018 |   AAAI   |
-|   7   | [Learning Traffic as Images: A Deep Convolutional Neural Network for Large-Scale Transportation Network Speed Prediction]     | 2017 |  Sensors |
-|   8   | [A Hybrid Method for Traffic Flow Forecasting Using Multimodal Deep Learning]                                                 | 2018 |          |
-|   9   | [Exploiting Spatio-Temporal Correlations with Multiple 3D Convolutional Neural Networks for Citywide Vehicle Flow Prediction] | 2018 |   ICDM   |
+| Index |                                                             Title                                                             | Year |      Pulisher      | Read |
+|:-----:|:-----------------------------------------------------------------------------------------------------------------------------:|:----:|:------------------:|:----:|
+|   1   | [Short-term traffic flow prediction based on spatiotemporal analysis and CNN deep learning]                                   | 2019 | Transportmetrica A |   Y  |
+|   2   | [Dynamic Spatio-temporal Graph-based CNNs for Traffic Prediction]                                                             | 2018 |                    |      |
+|   3   | [A Deep Convolutional Network for Traffic Congestion Classification]                                                          | 2017 |                    |      |
+|   4   | [Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting]                                          | 2019 |        AAAI        |      |
+|   5   | [Modeling Spatial-Temporal Dynamics for Traffic Prediction]                                                                   | 2018 |                    |      |
+|   6   | [Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction]                                                         | 2018 |        AAAI        |      |
+|   7   | [Learning Traffic as Images: A Deep Convolutional Neural Network for Large-Scale Transportation Network Speed Prediction]     | 2017 |       Sensors      |   Y  |
+|   8   | [A Hybrid Method for Traffic Flow Forecasting Using Multimodal Deep Learning]                                                 | 2018 |                    |      |
+|   9   | [Exploiting Spatio-Temporal Correlations with Multiple 3D Convolutional Neural Networks for Citywide Vehicle Flow Prediction] | 2018 |        ICDM        |      |
 
 
 
