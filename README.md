@@ -5,7 +5,6 @@
 |   1   | [Short-term traffic flow prediction based on spatiotemporal analysis and CNN deep learning]                                   | 2019 | Transportmetrica A |   Y  |
 |   2   | [Dynamic Spatio-temporal Graph-based CNNs for Traffic Prediction]                                                             | 2018 |                    |   Y   |
 |   3   | [Exploiting Spatio-Temporal Correlations with Multiple 3D Convolutional Neural Networks for Citywide Vehicle Flow Prediction] | 2018 |        ICDM        |      |
-
 |   4   | [Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting]                                          | 2019 |        AAAI        |      |
 |   5   | [Modeling Spatial-Temporal Dynamics for Traffic Prediction]                                                                   | 2018 |                    |      |
 |   6   | [Deep Multi-View Spatial-Temporal Network for Taxi Demand Prediction]                                                         | 2018 |        AAAI        |      |
