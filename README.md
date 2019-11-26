@@ -3,7 +3,7 @@
 | Index |                                                             Title                                                             | Year |      Pulisher      | Read |
 |:-----:|:-----------------------------------------------------------------------------------------------------------------------------:|:----:|:------------------:|:----:|
 |   1   | [Short-term traffic flow prediction based on spatiotemporal analysis and CNN deep learning]                                   | 2019 | Transportmetrica A |   Y  |
-|   2   | [Dynamic Spatio-temporal Graph-based CNNs for Traffic Prediction]                                                             | 2018 |                    |      |
+|   2   | [Dynamic Spatio-temporal Graph-based CNNs for Traffic Prediction]                                                             | 2018 |                    |   Y   |
 |   3   | [A Deep Convolutional Network for Traffic Congestion Classification]                                                          | 2017 |                    |      |
 |   4   | [Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting]                                          | 2019 |        AAAI        |      |
 |   5   | [Modeling Spatial-Temporal Dynamics for Traffic Prediction]                                                                   | 2018 |                    |      |
